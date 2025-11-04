@@ -1,11 +1,11 @@
-# Mustafa Muhammed (Mustafa Juba)
+# Mustafa Muhammed Abdullah
 
 <div align="center">
 
 ### Full Stack Python Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-muhammed-abdullah/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-nine-swart-92.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Mustafa%20Muhammed%20Abdullah-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-nine-swart-92.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mustafajuba98)
 
 </div>
@@ -49,46 +49,6 @@ Currently focused on developing enterprise-level APIs, microservices architectur
 
 ---
 
-## 🏗️ Architecture & Design Patterns
-
-- **Clean Architecture** - Domain-Driven Design (DDD)
-- **Microservices Architecture** - Modular and scalable systems
-- **RESTful API Design** - Comprehensive API development
-- **Real-time Communication** - WebSocket integration
-- **Test-Driven Development (TDD)** - Comprehensive testing suites
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mustafajuba98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafajuba98&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=mustafajuba98&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### [Mentora Backend - H5P AI Platform](https://github.com/mustafajuba98/Mentora-Backend)
-**Enterprise-level Django REST Framework backend for an AI-powered educational platform**
-
-- Built with Django 5.2.5 and Django REST Framework
-- Microservices architecture with 14+ modules
-- Real-time features with Django Channels and WebSocket
-- Clean Architecture with Domain-Driven Design
-- JWT Authentication with WebSocket support
-- Comprehensive API documentation with OpenAPI/Swagger
-
-**Tech Stack:** Django, DRF, Django Channels, MySQL, Redis, JWT, AWS S3
-
----
-
 ## 💼 Skills & Expertise
 
 ### Backend Development
@@ -107,12 +67,6 @@ Currently focused on developing enterprise-level APIs, microservices architectur
 - **MySQL**: Database design and optimization
 - **PostgreSQL**: Relational database management
 - **Redis**: Caching and real-time data layer
-
-### Architecture & Patterns
-- **Clean Architecture**: Domain-Driven Design implementation
-- **Microservices**: Modular service architecture
-- **SOLID Principles**: Clean code practices
-- **Design Patterns**: Implementation of common patterns
 
 ### DevOps & Deployment
 - **Docker**: Containerization
@@ -138,8 +92,8 @@ Currently focused on developing enterprise-level APIs, microservices architectur
 
 ## 📫 Connect With Me
 
-- **LinkedIn**: [Mustafa Muhammed](https://www.linkedin.com/in/mustafa-muhammed-abdullah/)
-- **Portfolio**: [portfolio-nine-swart-92.vercel.app](https://portfolio-nine-swart-92.vercel.app/)
+- **LinkedIn**: [Mustafa Muhammed Abdullah](https://www.linkedin.com/in/mustafa-muhammed-abdullah/)
+- **Portfolio**: [Mustafa Muhammed Abdullah](https://portfolio-nine-swart-92.vercel.app/)
 - **GitHub**: [@mustafajuba98](https://github.com/mustafajuba98)
 
 ---
