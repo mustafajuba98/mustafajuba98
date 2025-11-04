@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Full Stack Python Developer
+### Full Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-muhammed-abdullah/)
 [![Portfolio](https://img.shields.io/badge/Mustafa%20Muhammed%20Abdullah-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-nine-swart-92.vercel.app/)
