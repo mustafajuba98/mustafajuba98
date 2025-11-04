@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-muhammed-abdullah/)
 [![Portfolio](https://img.shields.io/badge/Mustafa%20Muhammed%20Abdullah-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-nine-swart-92.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mustafajuba98)
 
 </div>
 
